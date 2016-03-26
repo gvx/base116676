@@ -6,6 +6,8 @@ This was made because [base65536](https://github.com/ferno/base65536) just doesn
 
 ## setting everything up
 
+    $ python3 setup.py install
+
 ## base.py
 
     >>> from base116676 import base
